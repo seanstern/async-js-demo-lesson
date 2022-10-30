@@ -1,7 +1,16 @@
+/** {@link ./lib/logger-docs.md} for documentation */
 const logger = require("./lib/logger");
+
+/** {@linkcode ./lib/Request-docs.md} for documentation */
 const Request = require("./lib/Request");
+
+/** {@linkcode ./lib/portfolio-db-docs.md} for documentation */
 const { findPortfolioSync } = require("./lib/portfolio-db");
+
+/** {@linkcode ./lib/impact-api-docs.md} for documentation */
 const { getCarbonEmissionsSync } = require("./lib/impact-api");
+
+/** {@linkcode ./lib/report-api-docs.md} for documentation */
 const { createMetricsPDFSync } = require("./lib/report-api");
 
 /**
