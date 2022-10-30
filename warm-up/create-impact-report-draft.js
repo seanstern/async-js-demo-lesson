@@ -1,22 +1,22 @@
 /** {@link ./lib/logger-docs.md} for documentation */
 const logger = require("./lib/logger");
 
-/** {@linkcode ./lib/Request-docs.md} for documentation */
+/** {@link ./lib/Request-docs.md} for documentation */
 const Request = require("./lib/Request");
 
-/** {@linkcode ./lib/portfolio-db-docs.md} for documentation */
+/** {@link ./lib/portfolio-db-docs.md} for documentation */
 const { findPortfolioSync } = require("./lib/portfolio-db");
 
-/** {@linkcode ./lib/impact-api-docs.md} for documentation */
+/** {@link ./lib/impact-api-docs.md} for documentation */
 const { getCarbonEmissionsSync } = require("./lib/impact-api");
 
-/** {@linkcode ./lib/report-api-docs.md} for documentation */
+/** {@link ./lib/report-api-docs.md} for documentation */
 const { createMetricsPDFSync } = require("./lib/report-api");
 
 /**
- * Given a request containing a portfolio id, creates a report on the carbon
- * emissions for the portfolio. Sends response whose status is 201 and whose
- * body is the URL of the report upon success. Sends response whose status
+ * Given a request containing exactly one portfolio id, creates a report on the
+ * carbon emissions for the portfolio. Sends response whose status is 201 and
+ * whosebody is the URL of the report upon success. Sends response whose status
  * is 500 and whose body is the error message upon failure.
  *
  * @param {Request} req a request containing a portfolio id
