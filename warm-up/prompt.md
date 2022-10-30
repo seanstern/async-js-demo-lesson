@@ -6,7 +6,7 @@ Below is a hypothetical code review scenario. Take a few minutes to read through
 ## Scenario
 Bloomeberg is creating a tool to analyze the environmental impact of a stock portfolio (a collection of stocks).
 
-Your colleague has been asked to implement a javascript REST endpoint (a function run on a server) for the tool. The colleague was given a specificatoin for the endpoint as follows:
+Your colleague has been asked to implement a javascript REST endpoint (a function run on a server) for the tool. The colleague was given a specification for the endpoint as follows:
 
 > The endpoint accepts exactly one portfolio identifier as input and should respond as follows:
 >   - upon successs, a message with
