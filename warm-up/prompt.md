@@ -17,10 +17,10 @@ Your colleague has been asked to implement a javascript REST endpoint (a functio
 >     - a body containing an error message
 
 Your colleague had the following well-tested, secure, third-party libraries to work with
-  - [`Request` Documentation](./Request-docs.md)
-  - [`portfolio-db` Documentation](./portfolio-db-docs.md)
-  - [`impact-api` Documentation](./impact-api-docs.md)
-  - [`report-api` Documentation](./report-api-docs.md)
-  - [`logger` Documentation](./logger-docs.md)
+  - [`Request` Documentation](./lib/Request-docs.md)
+  - [`portfolio-db` Documentation](./lib/portfolio-db-docs.md)
+  - [`impact-api` Documentation](./lib/impact-api-docs.md)
+  - [`report-api` Documentation](./lib/report-api-docs.md)
+  - [`logger` Documentation](./lib/logger-docs.md)
 
 Your colleague submitted [this draft](./create-impact-report-draft.js) and is looking for **one or two** pieces of the **most important** constructive criticism you can provide.
