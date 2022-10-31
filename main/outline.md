@@ -13,7 +13,7 @@
 
 
 ## Activities
-0. As a group, identify problems in [proposed "fix" to warmup](./create-emissions-report-fix.js) _(Goal 0)_
+0. As a group, identify problems in [proposed "fix" to warmup](./create-emissions-report-fix-proposal.js) _(Goal 0)_
 1. As a group, convert warmup from asynchronous callback style to promise-style using the following promise-based libraries _(Goals 1, 2, 3.1)_
    - [`promise-portfolio-db` Documentation](./lib/promise-portfolio-db-docs.md)
    - [`promise-impact-api` Documentation](./lib/promise-impact-api-docs.md)
