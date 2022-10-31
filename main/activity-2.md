@@ -1,4 +1,4 @@
-# Activity 3
+# Activity 2
 
 ## Goal
 Implement the following REST endpoint that meets the specification given the
