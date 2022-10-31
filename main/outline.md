@@ -5,7 +5,7 @@
 2. Identify how promises solve challenges associated with callback-style asynchrounous functions
 3. Write asynchronous code that utilizes promise-returning functions (instead of callbacks) by
    1. Translating callback-style sequences to equivalent promise-style sequences
-   2. Utilizing promise parallelization API to improve performance of asynchronous functions[^0]
+   2. Utilizing promise parallelization API to improve performance of asynchronous functions[^1]
 
 ### Non-Goals
  - Convert a callback-style asynchronous function to a promise returning asynchronous function
