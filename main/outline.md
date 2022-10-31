@@ -17,9 +17,9 @@
    - [`promise-portfolio-db` Documentation](./lib/promise-portfolio-db-docs.md)
    - [`promise-impact-api` Documentation](./lib/promise-impact-api-docs.md)
    - [`promise-report-api` Documentation](./lib/promise-report-api-docs.md)
-1. [Individually, implement new promise-style request handler](./activity1.md) _(Goal 3.1)_
+1. [Individually, implement new promise-style request handler](./activity-1.md) _(Goal 3.1)_
 2. As a group, improve performance of new promise-style request handler _(Goal 3.2)_
-3. [Individually, implement performant promise-style request handler](./activity3.md) _(Goal 3.2)_ [^1]
+3. [Individually, implement performant promise-style request handler](./activity-3.md) _(Goal 3.2)_ [^1]
 
 
 ## External Resources
