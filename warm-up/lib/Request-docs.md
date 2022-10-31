@@ -43,5 +43,3 @@ Sends a JSON in response to a request.
 | ------ | ------------------------------------------- | ------------------------- |
 | status | <code>number</code>                         | http status code          |
 | body   | <code>JSON</code> \| <code>undefined</code> | the body of the responses |
-
-Done in 0.24s.
