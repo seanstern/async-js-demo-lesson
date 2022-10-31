@@ -23,4 +23,4 @@ Your colleague had the following well-tested, secure, third-party libraries to w
   - [`report-api` Documentation](./lib/report-api-docs.md)
   - [`logger` Documentation](./lib/logger-docs.md)
 
-Your colleague submitted [this draft](./create-impact-report-draft.js) and is looking for **one or two** pieces of the **most important** constructive criticism you can provide.
+Your colleague submitted [this draft](./create-emissions-report-draft.js) and is looking for **one or two** pieces of the **most important** constructive criticism you can provide.
