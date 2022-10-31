@@ -16,7 +16,7 @@
 0. As a group, convert warmup from asynchronous callback style promise-style _(Goals 1, 2, 3.1)_
 1. [Individually, implement new promise-style request handler](./activity1.md) _(Goal 3.1)_
 2. As a group, improve performance of new promise-style request handler _(Goal 3.2)_
-3. [Individually, implement performant promise-style request handler](./activity3.md) _(Goal 3.2)_[^0]: Time permitting
+3. [Individually, implement performant promise-style request handler](./activity3.md) _(Goal 3.2)_ [^0]
 
 
 ## External Resources
