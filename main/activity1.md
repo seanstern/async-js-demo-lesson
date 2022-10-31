@@ -1,4 +1,4 @@
-# Activity 1
+# Activity 3
 
 ## Goal
 Implement the following REST endpoint that meets the specification given the
@@ -12,6 +12,7 @@ latter's). The metric in the report should be named `"emissionsDifference"`.
 The endpoint sends a response whose status is 201 and body is the URL of
 the report upon success; it sends a response whose status is 500 and
 body is an error message upon failure.
+**Attempt to do so in the most performant manner.**
 
 Be sure to log at `info` level when a request is received and a successful
 response is sent. Similarly log at the `warn` level when an error response is

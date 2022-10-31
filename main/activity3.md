@@ -1,8 +1,8 @@
-# Activity 3
+# Activity 1
 
 ## Goal
 Implement the following REST endpoint that meets the specification given the
-libraries and starter code. **Attempt to do so in the most performant manner.**
+libraries and starter code.
 
 ## Specification
 Given a request containing exactly one portfolio id, creates a report with
